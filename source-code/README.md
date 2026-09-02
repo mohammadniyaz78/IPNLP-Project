@@ -21,11 +21,3 @@ data processing, models, dependencies, and supporting files.
    [README.md](../README.md).
 6. Run the project using the appropriate entry file.
 
-## ⚠️ Security Note
-
-Do not upload passwords, API keys, `.env` files, or other confidential
-information to the repository.
-
----
-
-**IPNLP Project — Artificial Intelligence and Machine Learning**
