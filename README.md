@@ -406,9 +406,6 @@ purposes**.
 
 ---
 
-<p align="center">
-  <b>Made with ❤️ by the IPNLP Project Team</b>
-</p>
 
 <p align="center">
   🤖 Artificial Intelligence & Machine Learning
